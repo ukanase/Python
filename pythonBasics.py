@@ -30,11 +30,9 @@ class Test:
             arr[0] += 10
         
         calcValue()
+        print(f"value of val: {val}")
         return arr
 
 t = Test()
 print(t.getSum())
 print(t.getValue())
-            
-    
-    
