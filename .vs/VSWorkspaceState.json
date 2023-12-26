@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.venv",
+    "\\.venv\\Lib",
+    "\\.venv\\Lib\\site-packages",
+    "\\.venv\\Lib\\site-packages\\atomicwrites",
+    "\\.venv\\Lib\\site-packages\\atomicwrites-1.4.0.dist-info",
+    "\\Problems",
+    "\\Problems\\Sorting",
+    "\\Problems\\Trees.py",
+    "\\tests"
+  ],
+  "SelectedNode": "\\.venv\\Lib\\site-packages\\atomicwrites\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}
