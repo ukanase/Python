@@ -3,9 +3,11 @@ import DataStructures.MyList as myList
 def test_listAdd() :
     l = myList.MyList()
     assert len(l.array) == 0
+    assert len(l.twodarrayarray) == 0
     l.add(10)
     l.add(20)
-    assert len(l.array) == 2
+    assert len(l.array) == 0
+    assert len(l.twodarrayarray) == 2
     
 def test_removeAtIndex() :
     l = myList.MyList()

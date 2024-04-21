@@ -36,3 +36,14 @@ class Test:
 t = Test()
 print(t.getSum())
 print(t.getValue())
+
+# for with negative counting
+# for i in range(4, -1, -1):
+#     print(i)
+
+if i == 10:
+    print('Hi')
+else:
+    print('Bye')
+    
+    
